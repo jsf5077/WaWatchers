@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "avatar": "https://via.placeholder.com/150",
+    "header": "Custom Hot Coffee"
+  },
+  {
+    "id": 2,
+    "avatar": "https://via.placeholder.com/150",
+    "header": "Beverages"
+  },
+  {
+    "id": 3,
+    "avatar": "https://via.placeholder.com/150",
+    "header": "Breakfast"
+  },
+  {
+    "id": 4,
+    "avatar": "https://via.placeholder.com/150",
+    "header": "Lunch & Dinner"
+  },
+  {
+    "id": 5,
+    "avatar": "https://via.placeholder.com/150",
+    "header": "Fresh Baked Goods"
+  },
+  {
+    "id": 6,
+    "avatar": "https://via.placeholder.com/150",
+    "header": "Fresh Snacks"
+  }
+]
